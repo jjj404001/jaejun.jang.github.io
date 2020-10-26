@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jaejun&#39;s Blog</title>
-    <link>https://jjj404001.github.io/jaejun.jang.github.io/post/</link>
+    <link>http://vkjaejun.tech/post/</link>
     <description>Recent content in Posts on Jaejun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2020 10:23:59 -0700</lastBuildDate><atom:link href="https://jjj404001.github.io/jaejun.jang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 10:23:59 -0700</lastBuildDate><atom:link href="http://vkjaejun.tech/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Blog!</title>
-      <link>https://jjj404001.github.io/jaejun.jang.github.io/post/new-blog/</link>
+      <link>http://vkjaejun.tech/post/new-blog/</link>
       <pubDate>Mon, 26 Oct 2020 10:23:59 -0700</pubDate>
       
-      <guid>https://jjj404001.github.io/jaejun.jang.github.io/post/new-blog/</guid>
+      <guid>http://vkjaejun.tech/post/new-blog/</guid>
       <description>This is my new blog!, constructed using hugo with Binario theme by Vimux!</description>
     </item>
     
